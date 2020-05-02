@@ -6,9 +6,7 @@
     "start": "tsc && node dist/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "scalajs-test": "^0.7.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "prettier": "^2.0.5",
     "tslint": "^6.1.2",
