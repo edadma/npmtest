@@ -1,10 +1,10 @@
-name := "npmtest"
+name := "scalajs-test"
 
-version := "0.1"
+version := "0.1.0"
 
 description := "NPM package test"
 
-scalaVersion := "2.13.1"
+scalaVersion := "2.13.2"
 
 scalacOptions ++= Seq( "-deprecation", "-feature", "-unchecked", "-language:postfixOps", "-language:implicitConversions", "-language:existentials")
 
