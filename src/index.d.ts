@@ -1,6 +1,5 @@
 export class HelloWorld {
-  constructor(
-  )
+  constructor()
 
   sayHello(): void
 }
