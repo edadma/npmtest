@@ -5,7 +5,8 @@
 .cache/
 .history/
 .lib/
-dist/*
+*/dist/*
+*/node_modules/*
 target/
 lib_managed/
 src_managed/

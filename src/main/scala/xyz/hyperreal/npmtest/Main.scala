@@ -2,20 +2,14 @@ package xyz.hyperreal.npmtest
 
 import scala.scalajs.js.annotation.{JSExport, JSExportTopLevel}
 
-object Main extends App {
-
-  val hello = new HelloWorld
-
-  hello.sayHello()
-
-}
+object Main extends App {}
 
 @JSExportTopLevel("HelloWorld")
 class HelloWorld {
 
   @JSExport
   def sayHello(): Unit = {
-    println("hello world from Scala.js")
+    println("hello from Scala.js")
   }
 
 }
