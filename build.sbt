@@ -1,6 +1,6 @@
 name := "scalajs-test"
 
-version := "0.8.0"
+version := "0.11.0"
 
 description := "NPM package test"
 
